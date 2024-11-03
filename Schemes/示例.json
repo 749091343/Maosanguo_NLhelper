@@ -1,0 +1,16 @@
+{
+    "name": "示例",
+    "main": [
+        1
+    ],
+    "sub": {
+        "subNum": 0,
+        "subPros": []
+    },
+    "must": [],
+    "choose": {
+        "chooseNum": 0,
+        "chooseSkills": []
+    },
+    "excl": []
+}
